@@ -28,6 +28,11 @@ body {
     font-family: var(--ff);
     font-weight: var(--fw-400);
     padding: 5rem 1rem;
+    background-image: url(images/bg-pattern-top-desktop.svg);
+        background-size:cover;
+        background-color:hsl(300, 13%, 92%);
+        background-blend-mode: multiply;
+        background-position:bottom right;
 }
 
 /* helper classes */
