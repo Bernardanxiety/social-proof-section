@@ -205,11 +205,11 @@ body {
 
     .irene {
         margin-top: 1rem;
-        transition: 300ms ease-in;
+        transition: margin-top 300ms ease-in;
     }
 
     .anne {
         margin-top: 2rem;
-        transition: 300ms ease-in;
+        transition: margin-top 300ms ease-in;
     }
 }
